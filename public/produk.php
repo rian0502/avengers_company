@@ -12,9 +12,6 @@
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
     <style>
-        body{
-            
-        }
         .container1 {
             max-width: 1200px;
             margin: 0 auto;
