@@ -44,9 +44,10 @@ Ekstensi yang digunakan dalam pembuatan website ini menggunakan PHP
 # Menjalankan Website
 1. Akses link : https://kgemgbpneg.us-east-1.awsapprunner.com/
 2. Tampilan Landing Page
-3. Tampilan Dashboard
-4. Terdapat beberapa pilihan Paket Berbayar untuk internet cepat
-5. Tampilan Testimoni dari customer
-6. Memberi pesan dengan layanan kami dengan cara mengisi data diri terlebih dahulu
+   ![Image](public/assets/1.png)
+4. Tampilan Dashboard
+5. Terdapat beberapa pilihan Paket Berbayar untuk internet cepat
+6. Tampilan Testimoni dari customer
+7. Memberi pesan dengan layanan kami dengan cara mengisi data diri terlebih dahulu
 
 # TERIMA KASIH, Semoga Bermanfaat 😉
