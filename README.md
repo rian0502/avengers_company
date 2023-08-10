@@ -15,14 +15,12 @@ Source code ini hanya dapat digunakan untuk member kelas "Pelatihan Junior Web P
 
 # Desain
 Berkas ini dapat kalian akses di Figma di tautan berikut 👍
-https://www.figma.com/file/sqVstjTB5j8eWR5c24wEkS/Store
+[https://www.figma.com/Avengers-Company](https://www.figma.com/file/TzImGq1ILWQdQFvMi19EtJ/Avengers-Company?type=design&node-id=0%3A1&mode=dev)
 
-Kalian dapat menggunakan dan memakai desain tersebut, dengan mengikuti lisensi MIT (selengkapnya baca bagian Lisensi dibawah). Desain ini **HANYA DAPAT DIGUNAKAN** untuk member kelas BWAStore dan tidak diizinkan untuk disebarkan kepada pihak selain member kelas BWAStore.
-
-Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain BelajarKoding atau BuildWith Angga, dan bukan dari bagian member BWAStore, anda tidak diperkenankan untuk menggunakan desain ini.
+Desain ini hanya digunakan untuk member kelas "Pelatihan Junior Web Programming" dan tidak diizinkan untuk disebarkan kepada pihak selain member tersebut.
 
 # Visual Studio Code
-Sebelum kalian memulai membuat aplikasi, salah satu yang harus kalian siapkan adalah Code Editor. Disini saya merekomendasikan **Visual Studio Code** sebagai code editor. Selain gratis, kalian bisa memasang ekstensi yang membuat code editor kalian semakin powerful
+Sebelum memulai membuat website, salah satu yang harus disiapkan adalah Code Editor. Disini kami merekomendasikan **Visual Studio Code** sebagai code editor. Selain gratis, anda bisa memasang ekstensi yang membuat code editor kalian berjalan dengan baik.
 
 Berkas instalasi bisa kalian unduh di https://code.visualstudio.com. Untuk cara install dapat langsung mengikuti aplikasi yang disediakan sesuai dengan sistem operasi yang digunakan
 
