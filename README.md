@@ -5,9 +5,9 @@
     - M. Bintang Firdaus
     - Rendy Lutfi Prabowo
     - Yogi Andaru
+    <hr>
 
-# Dokumentasi 👇🏻👇🏻👇🏻
-<hr>
+# 👇🏻👇🏻👇🏻 Dokumentasi 👇🏻👇🏻👇🏻
 
 # Pendahuluan
 Selamat datang di Github Kelompok **Avengers** 😄. Di sini menampilkan tentang website layanan internet. 
