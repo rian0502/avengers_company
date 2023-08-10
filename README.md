@@ -23,14 +23,14 @@ Manfaat :
 6. Pembelajaran Jarak Jauh dan E-Learning
 7. Inovasi Teknologi dan Pengembangan Aplikasi
 
-People with the spirit of learning, lets start! 😉
+People with the spirit of learning, lets start! 😉👍
 
 # Source Code
 Berkas Source Code ini dapat kalian akses di GitHub **Avengers Company** yang dapat anda akses di : https://github.com/avengers_company.
 Source code ini hanya dapat digunakan untuk member kelas "Pelatihan Junior Web Programming" dan tidak diizinkan untuk disebarkan kepada pihak selain member tersebut.
 
 # Desain
-Berkas ini dapat kalian akses di Figma di tautan berikut 👍
+Berkas ini dapat kalian akses di Figma pada tautan berikut :
 [https://www.figma.com/Avengers-Company](https://www.figma.com/file/TzImGq1ILWQdQFvMi19EtJ/Avengers-Company?type=design&node-id=0%3A1&mode=dev)
 
 ![Image](public/assets/image.png)
