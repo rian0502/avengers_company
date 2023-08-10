@@ -37,8 +37,8 @@
             <div class="row gx-5 justify-content-center">
                 <div class="col-lg-6">
                     <div class="text-center my-5">
-                        <h1 class="display-5 fw-bolder text-white mb-2">Present your business in a whole new way</h1>
-                        <p class="lead text-white-50 mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!</p>
+                        <h1 class="display-5 fw-bolder text-white mb-2">Internet Cepat Tanpa Hambatan.</h1>
+                        <p class="lead text-white-50 mb-4">Segera Bergabung Untuk menikmati layanan internet yang cepat !.</p>
                         <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
                             <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Get Started</a>
                             <a class="btn btn-outline-light btn-lg px-4" href="#!">Learn More</a>
@@ -54,7 +54,7 @@
             <div class="row gx-5">
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
-                    <h2 class="h4 fw-bolder">Featured title</h2>
+                    <h2 class="h4 fw-bolder">Fiber Optik</h2>
                     <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
                     <a class="text-decoration-none" href="#!">
                         Call to action
@@ -63,7 +63,7 @@
                 </div>
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
-                    <h2 class="h4 fw-bolder">Featured title</h2>
+                    <h2 class="h4 fw-bolder">Up To 1GB/s</h2>
                     <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
                     <a class="text-decoration-none" href="#!">
                         Call to action
@@ -72,7 +72,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
-                    <h2 class="h4 fw-bolder">Featured title</h2>
+                    <h2 class="h4 fw-bolder">Call Center 24/7</h2>
                     <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
                     <a class="text-decoration-none" href="#!">
                         Call to action
@@ -86,31 +86,31 @@
     <section class="bg-light py-5 border-bottom">
         <div class="container px-5 my-5">
             <div class="text-center mb-5">
-                <h2 class="fw-bolder">Pay as you grow</h2>
-                <p class="lead mb-0">With our no hassle pricing plans</p>
+                <h2 class="fw-bolder">Paket</h2>
+                <p class="lead mb-0">Tentukan Keinginan Anda.</p>
             </div>
             <div class="row gx-5 justify-content-center">
                 <!-- Pricing card free-->
                 <div class="col-lg-6 col-xl-4">
                     <div class="card mb-5 mb-xl-0">
                         <div class="card-body p-5">
-                            <div class="small text-uppercase fw-bold text-muted">Free</div>
+                            <div class="small text-uppercase fw-bold text-muted">Rp. 150.000</div>
                             <div class="mb-3">
-                                <span class="display-4 fw-bold">$0</span>
+                                <span class="display-4 fw-bold">20 Mb/s</span>
                                 <span class="text-muted">/ mo.</span>
                             </div>
                             <ul class="list-unstyled mb-4">
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
-                                    <strong>1 users</strong>
+                                    <strong>4 users</strong>
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
-                                    5GB storage
+                                    Up To 20 Mb/s
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
-                                    Unlimited public projects
+                                    No FUP
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
@@ -118,19 +118,11 @@
                                 </li>
                                 <li class="mb-2 text-muted">
                                     <i class="bi bi-x"></i>
-                                    Unlimited private projects
+                                    TV Channels
                                 </li>
                                 <li class="mb-2 text-muted">
                                     <i class="bi bi-x"></i>
                                     Dedicated support
-                                </li>
-                                <li class="mb-2 text-muted">
-                                    <i class="bi bi-x"></i>
-                                    Free linked domain
-                                </li>
-                                <li class="text-muted">
-                                    <i class="bi bi-x"></i>
-                                    Monthly status reports
                                 </li>
                             </ul>
                             <div class="d-grid"><a class="btn btn-outline-primary" href="#!">Choose plan</a></div>
@@ -142,25 +134,24 @@
                     <div class="card mb-5 mb-xl-0">
                         <div class="card-body p-5">
                             <div class="small text-uppercase fw-bold">
-                                <i class="bi bi-star-fill text-warning"></i>
-                                Pro
+                                Rp. 500.000
                             </div>
                             <div class="mb-3">
-                                <span class="display-4 fw-bold">$9</span>
+                                <span class="display-4 fw-bold">50 Mb/s </span>
                                 <span class="text-muted">/ mo.</span>
                             </div>
                             <ul class="list-unstyled mb-4">
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
-                                    <strong>5 users</strong>
+                                    <strong>10 users</strong>
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
-                                    5GB storage
+                                    Up To 50 Mb/s
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
-                                    Unlimited public projects
+                                    No FUP
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
@@ -168,19 +159,11 @@
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
-                                    Unlimited private projects
+                                    TV Channels
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
                                     Dedicated support
-                                </li>
-                                <li class="mb-2">
-                                    <i class="bi bi-check text-primary"></i>
-                                    Free linked domain
-                                </li>
-                                <li class="text-muted">
-                                    <i class="bi bi-x"></i>
-                                    Monthly status reports
                                 </li>
                             </ul>
                             <div class="d-grid"><a class="btn btn-primary" href="#!">Choose plan</a></div>
@@ -191,23 +174,23 @@
                 <div class="col-lg-6 col-xl-4">
                     <div class="card">
                         <div class="card-body p-5">
-                            <div class="small text-uppercase fw-bold text-muted">Enterprise</div>
+                            <div class="small text-uppercase fw-bold text-muted">Rp. 15.000.000</div>
                             <div class="mb-3">
-                                <span class="display-4 fw-bold">$49</span>
+                                <span class="display-4 fw-bold">1 Gb/s</span>
                                 <span class="text-muted">/ mo.</span>
                             </div>
                             <ul class="list-unstyled mb-4">
-                                <li class="mb-2">
+                            <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
-                                    <strong>Unlimited users</strong>
+                                    <strong>10 users</strong>
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
-                                    5GB storage
+                                    Up To 50 Mb/s
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
-                                    Unlimited public projects
+                                    No FUP
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
@@ -215,20 +198,11 @@
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
-                                    Unlimited private projects
+                                    TV Channels
                                 </li>
                                 <li class="mb-2">
                                     <i class="bi bi-check text-primary"></i>
                                     Dedicated support
-                                </li>
-                                <li class="mb-2">
-                                    <i class="bi bi-check text-primary"></i>
-                                    <strong>Unlimited</strong>
-                                    linked domains
-                                </li>
-                                <li class="text-muted">
-                                    <i class="bi bi-check text-primary"></i>
-                                    Monthly status reports
                                 </li>
                             </ul>
                             <div class="d-grid"><a class="btn btn-outline-primary" href="#!">Choose plan</a></div>
