@@ -39,7 +39,7 @@
         <div class="container">
         <div class="text-center mb-5">
                 <h2 class="fw-bolder">Bantuan</h2>
-                <p class="lead mb-0">Silahkan Pilih Bantuan Anda.</p>
+                <p class="lead mb-0">Silahkan Pilih Bantuan Anda. </p>
             </div>
             <div class="row gx-3 justify-content-center">
                 <div style="padding:30px 20px 30px 20px" class="borderRight card col-sm-5 m-4">
