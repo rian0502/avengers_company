@@ -1,9 +1,10 @@
 # Kelompok: Avengers Company
-  * Cindy
-  * M. Bintang Firdaus
-  * M. Febrian Hasibuan
-  * Rendy Lutfi Prabowo
-  * Yogi Andaru
+  * Project Manager (PM) : M. Febrian Hasibuan 
+  * Quality Assurance (QA) : Cindy
+  * Front End (FE) :
+    - M. Bintang Firdaus
+    - Rendy Lutfi Prabowo
+    - Yogi Andaru
 
 # Memulai Kelas
 Selamat datang di Github kelompok **Avengers Company** 😄. Di sini menampilkan tentang website IndiHome, semoga website ini bermanfaat untuk semua. 
