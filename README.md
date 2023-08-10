@@ -1,18 +1,14 @@
-# avengers_company
+# Kelompok: Avengers Company
   * Cindy
   * M. Bintang Firdaus
   * M. Febrian Hasibuan
   * Rendy Lutfi Prabowo
   * Yogi Andaru
+<hr>
 
 # Memulai Kelas
 
-Selamat datang di dokumentasi BWAStore. Terima kasih telah membeli kelas BWAStore dari BelajarKoding dan BuildWith Angga. Support kalian untuk kami para creator sangat kami apresiasi. Karena tanpa support dari kalian, kami tetap bisa untuk membuat konten tutorial yang terbaik untuk kalian 😄
-
-Pastikan kalian membeli kelas ini langsung dari creatornya ya 😉. Kami sangat sedih jika kalian membeli dari pihak yang tidak bertanggung jawab. Jika kalian mendapatkannya selain dari BelajarKoding dan BuildWith Angga, kalian bisa lapor langsung ke kami ya!
-
-Sebelum memulai belajar, ada beberapa informasi yang akan kami akan update secara berkala di halaman ini, dan kalian bisa cek berkala. Di halaman ini pula kami akan mendokumentasikan tutorial yang memang membutuhkan catatan seperti pemasangan tools dan deployment server
-
+Selamat datang di Github kelompok **Avengers Company** 😄
 People with the spirit of learning, lets start! 😉
 
 <hr>
