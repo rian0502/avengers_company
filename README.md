@@ -12,9 +12,9 @@ Selamat datang di Github kelompok **Avengers Company** 😄. Di sini menampilkan
 Dalam era digital yang semakin maju seperti sekarang ini, internet cepat menjadi kebutuhan yang sangat penting. Setiap orang tentunya ingin memiliki internet cepat untuk kepentingan kegiatan digital yang dilakukan. 
 Untuk mendapatkan manfaat penuh dari internet cepat, penting bagi kita untuk memastikan bahwa kita memiliki pasang internet rumah terbaik yang tersedia. Salah satu penyedia layanan internet cepat yaitu Avengers Net, kami menawarkan layanan internet cepat dengan kualitas yang tak tertandingi.
 
-Tujuan : Menyediakan suatu layanan untuk internet cepat yang berkualitas tanpa hambatan. 
+**Tujuan :** Menyediakan suatu layanan untuk internet cepat yang berkualitas tanpa hambatan. 
 
-Manfaat :
+**Manfaat :**
 1. Meningkatkan Kepuasan dan Kepercayaan Pelanggan
 2. Akses Informasi dengan Cepat dan Mudah
 3. Melancarkan Komunikasi Jarak Jauh
@@ -42,14 +42,16 @@ Sebelum memulai membuat website, salah satu yang harus disiapkan adalah Code Edi
 Ekstensi yang digunakan dalam pembuatan website ini menggunakan : PHP, CSS, dan JavaScript.
 
 # Website Tutorial's
-1. Akses link : https://kgemgbpneg.us-east-1.awsapprunner.com/
-2. Tampilan Dashboard Landing Page
+**1. Akses link : https://kgemgbpneg.us-east-1.awsapprunner.com/**
+**2. Tampilan Dashboard Landing Page**
    ![Image](public/assets/1.jpg)
    ![Image](public/assets/2.jpg)
-3. Terdapat beberapa pilihan Paket Berbayar untuk internet cepat
+**3. Terdapat beberapa pilihan Paket Berbayar untuk internet cepat**
    ![Image](public/assets/3.jpg)
-4. Tampilan Testimoni dari customer
+**4. Tampilan Testimoni dari customer**
    ![Image](public/assets/4.jpg)
-5. Memberi pesan dengan layanan kami dengan cara mengisi data diri terlebih dahulu
+**5. Memberi pesan dengan layanan kami dengan cara mengisi data diri terlebih dahulu**
     ![Image](public/assets/5.jpg)
-# TERIMA KASIH, Semoga Bermanfaat 😉
+    
+# Penutup
+Kami dari Kelompok Avengers mengucapkan Terima Kasih, mohon maaf apabila penulisan dokumentasi ini masih terdapat kekurangan dan kesalahan. Semoga Website ini Bermanfaat 😉
