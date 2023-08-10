@@ -1,4 +1,4 @@
-# Kelompok: Avengers Company
+# Kelompok: Avengers
   * Project Manager (PM) : M. Febrian Hasibuan 
   * Quality Assurance (QA) : Cindy
   * Front End (FE) :
@@ -11,9 +11,8 @@
 <hr>
 
 # Pendahuluan
-Selamat datang di Github kelompok **Avengers Company** 😄. Di sini menampilkan tentang website IndiHome, semoga website ini bermanfaat untuk semua. 
-
-Dalam era digital yang semakin maju seperti sekarang ini, internet cepat menjadi kebutuhan yang sangat penting. Setiap orang tentunya ingin memiliki internet cepat untuk kepentingan kegiatan digital yang dilakukan. 
+Selamat datang di Github Kelompok **Avengers** 😄. Di sini menampilkan tentang website layanan internet. 
+Dimana dalam era digital yang semakin maju seperti sekarang ini, internet cepat menjadi kebutuhan yang sangat penting. Setiap orang tentunya ingin memiliki internet cepat untuk kepentingan kegiatan digital yang dilakukan. 
 Untuk mendapatkan manfaat penuh dari internet cepat, penting bagi kita untuk memastikan bahwa kita memiliki pasang internet rumah terbaik yang tersedia. Salah satu penyedia layanan internet cepat yaitu Avengers Net, kami menawarkan layanan internet cepat dengan kualitas yang tak tertandingi.
 
 **Tujuan :** Menyediakan suatu layanan untuk internet cepat yang berkualitas tanpa hambatan. 
