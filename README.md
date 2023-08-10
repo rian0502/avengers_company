@@ -4,14 +4,11 @@
   * M. Febrian Hasibuan
   * Rendy Lutfi Prabowo
   * Yogi Andaru
-<hr>
 
 # Memulai Kelas
 
 Selamat datang di Github kelompok **Avengers Company** 😄
 People with the spirit of learning, lets start! 😉
-
-<hr>
 
 # Source Code
 
