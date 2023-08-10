@@ -6,6 +6,10 @@
     - Rendy Lutfi Prabowo
     - Yogi Andaru
 
+<hr>
+# DOKUMENTASI
+<hr>
+
 # Pendahuluan
 Selamat datang di Github kelompok **Avengers Company** 😄. Di sini menampilkan tentang website IndiHome, semoga website ini bermanfaat untuk semua. 
 
