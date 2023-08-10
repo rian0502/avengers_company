@@ -46,8 +46,12 @@ Ekstensi yang digunakan dalam pembuatan website ini menggunakan PHP
 2. Tampilan Landing Page
    ![Image](public/assets/1.jpg)
 4. Tampilan Dashboard
-5. Terdapat beberapa pilihan Paket Berbayar untuk internet cepat
-6. Tampilan Testimoni dari customer
-7. Memberi pesan dengan layanan kami dengan cara mengisi data diri terlebih dahulu
+   ![Image](public/assets/2.jpg)
+6. Terdapat beberapa pilihan Paket Berbayar untuk internet cepat
+   ![Image](public/assets/3.jpg)
+8. Tampilan Testimoni dari customer
+   ![Image](public/assets/4.jpg)
+10. Memberi pesan dengan layanan kami dengan cara mengisi data diri terlebih dahulu
+    ![Image](public/assets/5.jpg)
 
 # TERIMA KASIH, Semoga Bermanfaat 😉
