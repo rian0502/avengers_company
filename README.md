@@ -11,10 +11,10 @@ People with the spirit of learning, lets start! 😉
 
 # Source Code
 Berkas Source Code ini dapat kalian akses di GitHub **Avengers Company** yang dapat anda akses di : https://github.com/avengers_company.
-Source code ini **HANYA DAPAT DIGUNAKAN** untuk member kelas "Pelatihan Junior Web Programming" dan tidak diizinkan untuk disebarkan kepada pihak selain member tersebut.
+Source code ini hanya dapat digunakan untuk member kelas "Pelatihan Junior Web Programming" dan tidak diizinkan untuk disebarkan kepada pihak selain member tersebut.
 
 # Desain
-Berkas Desain pada video tutorial ini dapat kalian akses di Figma di tautan berikut 👍
+Berkas ini dapat kalian akses di Figma di tautan berikut 👍
 https://www.figma.com/file/sqVstjTB5j8eWR5c24wEkS/Store
 
 Kalian dapat menggunakan dan memakai desain tersebut, dengan mengikuti lisensi MIT (selengkapnya baca bagian Lisensi dibawah). Desain ini **HANYA DAPAT DIGUNAKAN** untuk member kelas BWAStore dan tidak diizinkan untuk disebarkan kepada pihak selain member kelas BWAStore.
