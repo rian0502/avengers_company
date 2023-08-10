@@ -15,12 +15,13 @@ Untuk mendapatkan manfaat penuh dari internet cepat, penting bagi kita untuk mem
 Tujuan : Menyediakan suatu layanan untuk internet cepat yang berkualitas tanpa hambatan. 
 
 Manfaat :
-1. Akses Informasi dengan Cepat dan Mudah
-2. Melancarkan Komunikasi Jarak Jauh
-3. Streaming Konten Multimedia dengan Kualitas Tinggi
-4. E-commerce dan Perdagangan Online
-5. Pembelajaran Jarak Jauh dan E-Learning
-6. Inovasi Teknologi dan Pengembangan Aplikasi
+1. Meningkatkan Kepuasan dan Kepercayaan Pelanggan
+2. Akses Informasi dengan Cepat dan Mudah
+3. Melancarkan Komunikasi Jarak Jauh
+4. Streaming Konten Multimedia dengan Kualitas Tinggi
+5. E-commerce dan Perdagangan Online
+6. Pembelajaran Jarak Jauh dan E-Learning
+7. Inovasi Teknologi dan Pengembangan Aplikasi
 
 People with the spirit of learning, lets start! 😉
 
