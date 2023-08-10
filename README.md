@@ -41,17 +41,16 @@ Sebelum memulai membuat website, salah satu yang harus disiapkan adalah Code Edi
 ### Ekstensi
 Ekstensi yang digunakan dalam pembuatan website ini menggunakan PHP
 
-# Menjalankan Website
+# Website Tutorial's
 1. Akses link : https://kgemgbpneg.us-east-1.awsapprunner.com/
-2. Tampilan Landing Page
+2. Tampilan Dashboard Landing Page
    ![Image](public/assets/1.jpg)
-4. Tampilan Dashboard
    ![Image](public/assets/2.jpg)
-6. Terdapat beberapa pilihan Paket Berbayar untuk internet cepat
+3. Terdapat beberapa pilihan Paket Berbayar untuk internet cepat
    ![Image](public/assets/3.jpg)
-8. Tampilan Testimoni dari customer
+4. Tampilan Testimoni dari customer
    ![Image](public/assets/4.jpg)
-10. Memberi pesan dengan layanan kami dengan cara mengisi data diri terlebih dahulu
+5. Memberi pesan dengan layanan kami dengan cara mengisi data diri terlebih dahulu
     ![Image](public/assets/5.jpg)
 
 # TERIMA KASIH, Semoga Bermanfaat 😉
