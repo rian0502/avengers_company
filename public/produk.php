@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>AvengerNet || Home </title>
+    <title>AvengerNet || Produk </title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Bootstrap icons-->
@@ -27,7 +27,7 @@
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item"><a class="nav-link" href="..\public\index.php">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="#!">Paket & Promo</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#!">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link " href="..\public\contact.php">Contact</a></li>
                     <li class="nav-item"><a class="nav-link active" aria-current="page" href="..\public\produk.php">Produk</a></li>
                 </ul>
             </div>
@@ -54,7 +54,7 @@
                             <p>Layanan internet murah dengan kualitas kencang pertama di Konoha.</p>
                             <br>
                             <p>Akses internet sekarang jadi sangat murah dan cepat! Ambil <b>promo merdeka</b> sekarang juga!</p>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                             <p>Nonton tv, tapi siaran kemarin? TV kabel solusinya!</p>
                             <br>
                             <p>Nonton tv sekarang juga sudah bisa nonton ulang, bukan yt bae! <br>hahaa</p>
-                            
+
                         </div>
                     </div>
                 </div>
