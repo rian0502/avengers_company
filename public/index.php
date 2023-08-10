@@ -28,7 +28,8 @@
                     <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="#!">Paket & Promo</a></li>
                     <li class="nav-item"><a class="nav-link" href="#!">Contact</a></li>
-                    <li class="nav-item"><a class="nav-link" href="..\public\produk.php">Produk</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/produk.php">Produk</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/help.php">Produk</a></li>
                 </ul>
             </div>
         </div>
