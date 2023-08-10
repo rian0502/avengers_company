@@ -20,48 +20,10 @@ Berkas ini dapat kalian akses di Figma di tautan berikut 👍
 Desain ini hanya digunakan untuk member kelas "Pelatihan Junior Web Programming" dan tidak diizinkan untuk disebarkan kepada pihak selain member tersebut.
 
 # Visual Studio Code
-Sebelum memulai membuat website, salah satu yang harus disiapkan adalah Code Editor. Disini kami merekomendasikan **Visual Studio Code** sebagai code editor. Selain gratis, anda bisa memasang ekstensi yang membuat code editor kalian berjalan dengan baik.
-
-Berkas instalasi bisa kalian unduh di https://code.visualstudio.com. Untuk cara install dapat langsung mengikuti aplikasi yang disediakan sesuai dengan sistem operasi yang digunakan
-
-![VSCode](/images/vscode.png)
+Sebelum memulai membuat website, salah satu yang harus disiapkan adalah Code Editor. Disini kami merekomendasikan **Visual Studio Code** sebagai code editor. Selain gratis, anda bisa memasang ekstensi yang membuat code editor kalian berjalan dengan baik. Instalasi VSC bisa kalian unduh di https://code.visualstudio.com.
 
 ## Ekstensi
-Untuk membuat pengalaman coding kalian lebih baik,saya rekomendasikan untuk memasang semua plugin dibawah ini.
-
-### Ekstensi PHP & Laravel
-1. Laravel Blade Snippets
-2. Laravel Blade Spacer
-3. Laravel Model Snippet
-4. Laravel Snippets
-5. Laravel Extra Intellisense
-6. Laravel goto view
-7. laravel-goto-controller
-8. PHP Docblocker
-9. PHP Intelephense
-10. PHP Namespace Resolver
-11. PHP Awesome Snippets
-12. PHPDoc Generator
-13. DotENV
-
-### Ekstensi Lainnya
-
-1. Auto Complete Tag
-2. Auto Close Tag
-3. Auto Rename Tag
-4. Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets
-5. Better Align
-6. Bracket Pair Colorizer 2
-7. Icon Fonts
-8. Prettier
-9. GitLens
-10. Version Lens
-11. Error Lens
-12. Live SASS Compiler
-13. Live Server
-14. SonarLint
-15. IntelliSense for CSS class names in HTML
-16. Vetur
+Ekstensi yang digunakan dalam pembuatan website ini: PHP
 
 ## Tema & Font
 
