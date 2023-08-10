@@ -33,7 +33,7 @@ Source code ini hanya dapat digunakan untuk member kelas "Pelatihan Junior Web P
 Berkas ini dapat kalian akses di Figma di tautan berikut 👍
 [https://www.figma.com/Avengers-Company](https://www.figma.com/file/TzImGq1ILWQdQFvMi19EtJ/Avengers-Company?type=design&node-id=0%3A1&mode=dev)
 
-(public/assets/image.png)
+![Image](public/assets/image.png)
 
 # Visual Studio Code
 Sebelum memulai membuat website, salah satu yang harus disiapkan adalah Code Editor. Disini kami merekomendasikan **Visual Studio Code** sebagai code editor. Selain gratis, anda bisa memasang ekstensi yang membuat code editor kalian berjalan dengan baik. Instalasi VSC bisa kalian unduh di https://code.visualstudio.com.
