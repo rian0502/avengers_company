@@ -39,7 +39,7 @@ Berkas ini dapat kalian akses di Figma pada tautan berikut :
 Sebelum memulai membuat website, salah satu yang harus disiapkan adalah Code Editor. Disini kami merekomendasikan **Visual Studio Code** sebagai code editor. Selain gratis, anda bisa memasang ekstensi yang membuat code editor kalian berjalan dengan baik. Instalasi VSC bisa kalian unduh di https://code.visualstudio.com.
 
 ### Ekstensi
-Ekstensi yang digunakan dalam pembuatan website ini menggunakan PHP
+Ekstensi yang digunakan dalam pembuatan website ini menggunakan : PHP, CSS, dan JavaScript.
 
 # Website Tutorial's
 1. Akses link : https://kgemgbpneg.us-east-1.awsapprunner.com/
