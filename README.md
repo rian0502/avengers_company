@@ -6,33 +6,22 @@
   * Yogi Andaru
 
 # Memulai Kelas
-
-Selamat datang di Github kelompok **Avengers Company** 😄
+Selamat datang di Github kelompok **Avengers Company** 😄. Di sini menampilkan tentang website IndiHome, semoga website ini bermanfaat untuk semua. 
 People with the spirit of learning, lets start! 😉
 
 # Source Code
-
-Berkas Source Code pada video tutorial ini dapat kalian akses di GitHub **@belajarkoding** yang dapat kalian akses di
-https://github.com/belajarkoding dengan nama repository store-\*.
-
-Kalian dapat menggunakan dan memakai source code tersebut, dengan mengikuti lisensi MIT (selengkapnya baca bagian Lisensi dibawah). Source code ini **HANYA DAPAT DIGUNAKAN** untuk member kelas BWAStore dan tidak diizinkan untuk disebarkan kepada pihak selain member kelas BWAStore.
-
-Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain BelajarKoding atau BuildWith Angga, dan bukan dari bagian member BWAStore, anda tidak diperkenankan untuk menggunakan source code ini.
+Berkas Source Code ini dapat kalian akses di GitHub **Avengers Company** yang dapat anda akses di : https://github.com/avengers_company.
+Source code ini **HANYA DAPAT DIGUNAKAN** untuk member kelas "Pelatihan Junior Web Programming" dan tidak diizinkan untuk disebarkan kepada pihak selain member tersebut.
 
 # Desain
-
 Berkas Desain pada video tutorial ini dapat kalian akses di Figma di tautan berikut 👍
-
 https://www.figma.com/file/sqVstjTB5j8eWR5c24wEkS/Store
 
 Kalian dapat menggunakan dan memakai desain tersebut, dengan mengikuti lisensi MIT (selengkapnya baca bagian Lisensi dibawah). Desain ini **HANYA DAPAT DIGUNAKAN** untuk member kelas BWAStore dan tidak diizinkan untuk disebarkan kepada pihak selain member kelas BWAStore.
 
 Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain BelajarKoding atau BuildWith Angga, dan bukan dari bagian member BWAStore, anda tidak diperkenankan untuk menggunakan desain ini.
 
-<hr>
-
 # Visual Studio Code
-
 Sebelum kalian memulai membuat aplikasi, salah satu yang harus kalian siapkan adalah Code Editor. Disini saya merekomendasikan **Visual Studio Code** sebagai code editor. Selain gratis, kalian bisa memasang ekstensi yang membuat code editor kalian semakin powerful
 
 Berkas instalasi bisa kalian unduh di https://code.visualstudio.com. Untuk cara install dapat langsung mengikuti aplikasi yang disediakan sesuai dengan sistem operasi yang digunakan
@@ -40,11 +29,9 @@ Berkas instalasi bisa kalian unduh di https://code.visualstudio.com. Untuk cara 
 ![VSCode](/images/vscode.png)
 
 ## Ekstensi
-
 Untuk membuat pengalaman coding kalian lebih baik,saya rekomendasikan untuk memasang semua plugin dibawah ini.
 
 ### Ekstensi PHP & Laravel
-
 1. Laravel Blade Snippets
 2. Laravel Blade Spacer
 3. Laravel Model Snippet
@@ -81,35 +68,25 @@ Untuk membuat pengalaman coding kalian lebih baik,saya rekomendasikan untuk mema
 ## Tema & Font
 
 ### Tema
-
 1. Absolute Black
 2. Monokai Pro
 
 ### Font
-
 1. Operator Mono
 2. JetBrains Mono
 
-<hr>
-
 # Menjalankan Live Server
-
 Pada tutorial ini, saya menggunakan ekstensi Live Server dan Live SASS Compiler. Sebelum memulai slicing, pastikan kalian klik **GO Live** dan **Watch SASS** terlebih dahulu, dan pastikan bahwa file SASS kalian ter compile dengan cara mengecek file .css yang ada bersamaan dengan file .scss
 
 ![Live Server](./images/live-server.png)
 
 Pastikan kalian selalu mengubah file .scss nya dan bukan .css nya, karena file .scss akan dicompile secara otomatis menjadi dan .css dan jika kalian menulis di file .css, maka perubahan kalian akan tertimpa.
 
-<hr>
-
 # Instalasi Tools Untuk Laravel
-
 Sebelum kamu dapat melanjutkan tahap Laravel, kamu dapat memasang tools di bawah ini sesuai dengan sistem operasi yang kamu gunakan
 
 ## Windows
-
 Untuk sistem operasi Windows, tools yang direkomendasikan untuk membuat aplikasi PHP dan Laravel adalah Laragon. Pada laragon, kamu juga dapat memasang aplikasi tanpa harus melakukan instalasi lewat command line
-
 1. Masuk ke website laragon.org lalu klik Download ![Laragon 1](/images/laragon-1.png)
 2. Pilih Laragon - Full ![Laragon 2](/images/laragon-2.png)
 3. Ikuti instalasi yang ada dari installernya
