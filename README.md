@@ -6,8 +6,7 @@
     - Rendy Lutfi Prabowo
     - Yogi Andaru
 
-<hr>
-# DOKUMENTASI
+# Dokumentasi
 <hr>
 
 # Pendahuluan
